@@ -27,4 +27,5 @@ ul {
     display: flex;
     align-items: baseline;
     list-style-type: none;   
+    cursor: pointer;
 }
