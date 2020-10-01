@@ -4,4 +4,4 @@
 
 Para acessar o conteúdo que está sendo criado [clique aqui](https://rhama-krisner.github.io/Projeto-do-Russo/.) :point_left:
 
-Tudo ainda será refeito para ter um design mais agradável e tudo será responsível.
+Tudo ainda será refeito para ter um design mais agradável, e todos os projetos serão responsíveis.
