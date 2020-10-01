@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box
+}
+
+.titulo {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Roboto Slab';
+}
+
+a {
+    background-color: #000000;
+    border: none;
+    color: #ffffff;
+    padding: 16px 32px;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+a:hover {
+    opacity: 0.6;
+    font-size: bold;
+    color: rgb(0, 0, 0);
+    border-radius: 30px;
+    background-color: rgb(150, 150, 150);
+}
+
+.projetos {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin: 20px 400px; /*Mudar quando acrescentar*/
+}
+
+.proj1, .proj2 {
+    margin: 10px;
+    width: 100%;
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
