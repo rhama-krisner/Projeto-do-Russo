@@ -1,5 +1,7 @@
-# Link de acesso
+# Projetos 
 
-[link](https://rhama-krisner.github.io/Projeto-do-Russo/.)
+!Projetos criados, um por dia em video aula apresentada pelo [codigorusso](https://www.instagram.com/codigorusso/?hl=pt-br)
 
-**Tudo ainda será refeito para ter um desing mais agradável e responsivel**
+Links do que está sendo criado [link](https://rhama-krisner.github.io/Projeto-do-Russo/.)
+
+Tudo ainda será refeito para ter um design mais agradável e tudo será responsível.
