@@ -1,4 +1,3 @@
-
 # Counter
 
 Simple counter made in JS and HTML.
@@ -8,7 +7,7 @@ The counter has 3 buttons.
  * Reset
  * Stop
 
-It can be accessed directly by [clicking here.](Https://rhama-krisner.github.io/Projeto-do-Russo/Projeto1/index.html)
+It can be accessed directly by [clicking here.](https://rhama-krisner.github.io/Projeto-do-Russo/Counter/index.htmlama-krisner.github.io/Projeto-do-Russo/Projeto1/index.html)
 
 **For more created projects, [click here](https://rhama-krisner.github.io/Projeto-do-Russo/)** :point_left:
 
