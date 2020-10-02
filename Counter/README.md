@@ -7,7 +7,7 @@ The counter has 3 buttons.
  * Reset
  * Stop
 
-It can be accessed directly by [clicking here.](https://rhama-krisner.github.io/Projeto-do-Russo/Counter/index.html)
+It can be accessed directly by [clicking here.](https://rhama-krisner.github.io/Projeto-do-Russo/Counter/index.html) :point_left:
 
 **For more created projects, [click here](https://rhama-krisner.github.io/Projeto-do-Russo/)** :point_left:
 
@@ -23,7 +23,7 @@ No contador tem 3 botões.
  * Resetar
  * Parar
 
-Pode ser acessado diretamente [clicando aqui.](https://rhama-krisner.github.io/Projeto-do-Russo/Counter/index.html)
+Pode ser acessado diretamente [clicando aqui.](https://rhama-krisner.github.io/Projeto-do-Russo/Counter/index.html) :point_left:
 
 **Para ver mais projetos criados, [clique aqui](https://rhama-krisner.github.io/Projeto-do-Russo/)** :point_left:
 
